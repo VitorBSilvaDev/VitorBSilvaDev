@@ -34,4 +34,4 @@
 
 ---
 
-🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev júnior** ou **estagiário em TI**.
+🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev júnior**.
