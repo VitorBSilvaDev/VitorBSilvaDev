@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Vitor 👋</h1>
-<p align="center">Desenvolvedor em FullStack | FATEC Franco da Rocha | Instituto PROA</p>
+<p align="center">Desenvolvedor BACKEND</p>
 
 ---
 
@@ -29,8 +29,8 @@
 
 ### 📫 Contato
 
-- 📧 pedro.santana9905@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-santan4/)
+- 📧 vitor.bsilva33@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-silva-dev/)
 
 ---
 
