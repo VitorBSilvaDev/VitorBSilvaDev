@@ -34,4 +34,4 @@
 
 ---
 
-🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev júnior**.
+🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev backend**.
