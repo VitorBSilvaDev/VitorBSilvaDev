@@ -35,4 +35,4 @@
 
 ---
 
-🧠 Sempre aprendendo algo novo e buscando oportunidades como **dev backend**.
+🧠 Sempre aprendendo algo novo e buscando oportunidades na área de dados.
