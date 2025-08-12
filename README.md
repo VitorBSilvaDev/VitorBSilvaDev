@@ -1,5 +1,5 @@
 <h1 align="center">Prazer, me chamo Vitor👋</h1>
-<p align="center">Desenvolvedor BACK-END aspirante a cientista de dados. Minha formação vem do desenvolvimento web, me desenvolvendo especialmente na área de back-end. Contudo me descobri na área de dados, estudando paralelamente para ingressar nessa área.</p>
+<p align="center">Desenvolvedor BACK-END aspirante a cientista de dados. Minha formação vem do desenvolvimento web, me desenvolvendo especialmente na área de back-end Java. Contudo me descobri na área de dados, estudando paralelamente para ingressar nessa área.</p>
 
 ---
 
