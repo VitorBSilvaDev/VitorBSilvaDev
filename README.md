@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Vitor 👋</h1>
-<p align="center">Desenvolvedor BACKEND</p>
+<p align="center">Desenvolvedor BACKEND aspirante a cientista de dados</p>
 
 ---
 
